@@ -777,7 +777,7 @@ span{
       transition: 0.3s color;
     }
     .product-home{
-        margin-top: -16rem;
+        margin-top: -12rem;
     }
 }
 @media (max-width: 331px){
